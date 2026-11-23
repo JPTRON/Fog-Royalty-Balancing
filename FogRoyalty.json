@@ -1,6 +1,6 @@
 {
 	"Name": "Fog Royalty",
-	"Version": 1788327437,
+	"Version": 1795474667,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2323,7 +2323,8 @@
 				"142",
 				"181",
 				"189",
-				"220"
+				"220",
+				"226"
 			],
 			"KillerComboPerkBans": [
 				[
@@ -3305,9 +3306,9 @@
 		{
 			"Name": "The Good Guy",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				"33"
+				"0"
 			],
 			"BalanceTiers": [
 				0,
